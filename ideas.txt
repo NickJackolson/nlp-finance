@@ -1,0 +1,15 @@
+1- Bert kullanarak her bir habere skor ver, bu skorları asıl modelde feature olarak kullan
+2- Tüm haberleri grupla, tek bir text dosyası haline getir, bu şekilde BERT eğit
+3- Haberlerin borsayla ne kadar alakalı olduğunu bul ve filtrele, sonrasında kullan
+4- Haber kaç gün sonrasını etkiler? Haberin kaç günlük olduğu da bir feature
+5- şirket üzerinde çalışmak daha kolay
+
+ilk aşamada n farklı şirket ile ilgili haberleri çek, BERT ile sınıflandır, feature haline getir
+seçilen hisseler: 
+APPLE INC
+NVIDIA
+AMAZON
+PEPSI
+NETFLIX
+STARBUCKS
+
